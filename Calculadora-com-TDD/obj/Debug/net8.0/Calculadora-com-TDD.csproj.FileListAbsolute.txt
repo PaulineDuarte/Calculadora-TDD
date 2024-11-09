@@ -1,0 +1,15 @@
+D:\Projetos\Calculadora\Calculadora-com-TDD\bin\Debug\net8.0\Calculadora-com-TDD.exe
+D:\Projetos\Calculadora\Calculadora-com-TDD\bin\Debug\net8.0\Calculadora-com-TDD.deps.json
+D:\Projetos\Calculadora\Calculadora-com-TDD\bin\Debug\net8.0\Calculadora-com-TDD.runtimeconfig.json
+D:\Projetos\Calculadora\Calculadora-com-TDD\bin\Debug\net8.0\Calculadora-com-TDD.dll
+D:\Projetos\Calculadora\Calculadora-com-TDD\bin\Debug\net8.0\Calculadora-com-TDD.pdb
+D:\Projetos\Calculadora\Calculadora-com-TDD\obj\Debug\net8.0\Calculadora-com-TDD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Calculadora\Calculadora-com-TDD\obj\Debug\net8.0\Calculadora-com-TDD.AssemblyInfoInputs.cache
+D:\Projetos\Calculadora\Calculadora-com-TDD\obj\Debug\net8.0\Calculadora-com-TDD.AssemblyInfo.cs
+D:\Projetos\Calculadora\Calculadora-com-TDD\obj\Debug\net8.0\Calculadora-com-TDD.csproj.CoreCompileInputs.cache
+D:\Projetos\Calculadora\Calculadora-com-TDD\obj\Debug\net8.0\Calculadora-com-TDD.sourcelink.json
+D:\Projetos\Calculadora\Calculadora-com-TDD\obj\Debug\net8.0\Calculadora-com-TDD.dll
+D:\Projetos\Calculadora\Calculadora-com-TDD\obj\Debug\net8.0\refint\Calculadora-com-TDD.dll
+D:\Projetos\Calculadora\Calculadora-com-TDD\obj\Debug\net8.0\Calculadora-com-TDD.pdb
+D:\Projetos\Calculadora\Calculadora-com-TDD\obj\Debug\net8.0\Calculadora-com-TDD.genruntimeconfig.cache
+D:\Projetos\Calculadora\Calculadora-com-TDD\obj\Debug\net8.0\ref\Calculadora-com-TDD.dll
